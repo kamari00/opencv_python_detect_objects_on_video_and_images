@@ -4,7 +4,7 @@ import numpy as np
 # Load the image
 image = cv2.imread('images/image3.jpg')
 #image = cv2.imread('images/image1.jpg')
-
+ 
  
 # Load the pre-trained model
 model_prototxt_path = 'models/caffemodel/MobileNetSSD_deploy.prototxt'
